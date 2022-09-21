@@ -1,0 +1,3 @@
+- # Informações sobre mim.
+- 👋 Oi eu sou Miguel.
+- 👀 E sou um aluno, e eu estou aprendendo JavaScript.
